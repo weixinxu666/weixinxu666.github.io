@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Xinxu Wei (韦新栩)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,182 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+Hi! This is Xinxu Wei. I am a dual master student at McGill University and University of Electronic Science and Technology of China (UESTC). I am also a graduate researcher at Mila - Quebec AI Institute. My supervisors are Prof. [Danilo Bzdok](https://www.mcgill.ca/neuro/danilo-bzdok-md-phd) in the [lab](http://bzdok.lab.mcgill.ca/) of Mila and Prof. [Yongjie Li](https://neuro.uestc.edu.cn/vccl/lyj.html) at [Center for Visual Cognition and Brain-Inspired Computation (ViCBiC)](https://www.neuro.uestc.edu.cn/vccl/people.html) at UESTC. 
+<br><br>
+I like playing basketball, cooking, watching movies and NBA games. I am the fan of Kobe Bryant. I enjoy reading papers and doing research.
+<br><br>
+My research directions are Artificial Intelligent, Medical/Natural Image processing, Computer Vision, Machine Learning, Deep Learning, Pattern Recognition, Neural Network.
+<br>
+My research interests are Visual Attention Mechanism, Contrastive Learning, Self-Attention
+Mechanism, Network Architecture Design, Convolutional/Graph/Capsule Neural Network,
+Image Enhancement/Denoising/Super Resolution, Object Detection/Segmentation.
+
+<br>
+<br>
+
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+------
+<!-- ### Education -->
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* **McGill University**
+    * M.Sc. in Neuroscience, 2021 - 2023, Montreal, Canada
+    * Supervisor: Prof. [Danilo Bzdok](https://www.mcgill.ca/neuro/danilo-bzdok-md-phd)
+    * Work at [Bzdok Lab](http://bzdok.lab.mcgill.ca/) at Mila-Quebec AI Institute
 
-Getting started
+* **University of Electronic Science and Technology of China**
+    * M.Sc. in Biomedical Engineering, 2020 - 2023, Chengdu, China
+    * Supervisor: Prof. [Yongjie Li](https://neuro.uestc.edu.cn/vccl/lyj.html)
+    * Work at [Center for Visual Cognition and Brain-Inspired Computation (ViCBiC)](https://www.neuro.uestc.edu.cn/vccl/people.html)
+
+* **University of Electronic Science and Technology of China**
+    * B.E. in Electronics and Communications Engineering, <br />2016 - 2020, Chengdu, China
+    *  ”985”, ”211” Project
+    * Double First Class University
+
+
+<br>
+<br>
+
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<!-- ### 2022 -->
 
-Create content & metadata
+**Orientation and Context Entangled Network for Retinal Vessel Segmentation** 
+
+<ins>**Xinxu Wei**</ins>, Kaifu Yang, Danilo Bzdok, and Yongjie Li <br>
+Under review by Expert Systems with Applications (TOP Journal, JCR Q1, IF=8.665). Review Status: Minor Revision <br>
+[<a href='https://arxiv.org/pdf/2207.11396.pdf'>PDF</a>] <br>
+
+<br>
+
+
+**TSN-CA: A Two-Stage Network with Channel Attention for Low-Light Image Enhancement** 
+
+<ins>**Xinxu Wei**</ins>, Xianshi Zhang, and Yongjie Li <br>
+Accepted by 2022 International Conference on Artificial Neural Networks (ICANN 2022) <br>
+[<a href='https://arxiv.org/pdf/2110.02477.pdf'>PDF</a>] <br>
+
+
+<br>
+
+**Deep Pneumonia: Attention-Based Contrastive Learning for Class-Imbalanced Pneumonia Lesion
+Recognition in Chest X-rays** 
+
+<ins>**Xinxu Wei**</ins>, Haohan Bai, Xianshi Zhang, and Yongjie Li <br>
+Under review by IEEE Transactions on Instrumentation and Measuremwnt (JCR Q1,
+IF=5.332) <br>
+[<a href='https://arxiv.org/pdf/2207.11393.pdf'>PDF</a>] <br>
+
+
+<br>
+
+**SARN: A Lightweight Stacked Attention Residual Network for Low-Light Image Enhancement** 
+
+<ins>**Xinxu Wei**</ins>, Xianshi Zhang, and Yongjie Li <br>
+Accepted by 2021 IEEE International Conference on Robotics and Automation Engineering (ICRAE 2021) <br>
+[<a href='https://ieeexplore.ieee.org/iel7/9657197/9657756/09657795.pdf'>PDF</a>] [<a href='https://github.com/weixinxu666/SARN'>Code</a>] <br>
+  
+
+
+<br>
+
+**DA-DRN: Degradation-Aware Deep Retinex Network for Low-Light Image Enhancement** 
+
+<ins>**Xinxu Wei**</ins>, Xianshi Zhang, and Yongjie Li <br>
+Under review by IEEE Transactions on Instrumentation and Measuremwnt (JCR Q1,
+IF=5.332) <br>
+[<a href='https://arxiv.org/pdf/2110.01809.pdf'>PDF</a>] <br>
+
+
+
+
+
+<br>
+<br>
+
+Patents
+======
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<!-- ### 2022 -->
 
-**Markdown generator**
+**Multi-feature fusion fatigue detection method based on deep learning and machine learning** <br>
+**基于深度学习和机器学习的多特征融合的疲劳检测方法**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Yongjie Li, <ins>**Xinxu Wei**</ins>, and Xianshi Zhang <br>
+This work is applying for Chinese patent <br>
+[<a href='https://xueshu.baidu.com/usercenter/paper/show?paperid=1d4n0pg0xf6q0jc0as250a40fm199594&site=xueshu_se'>Link</a>] <br>
 
-How to edit your site's GitHub repository
+
+**Deep learning facial expression recognition method guided by prior attention mechanism** 
+<br>
+**基于先验注意力机制引导的深度学习表情识别方法**
+
+Yongjie Li, <ins>**Xinxu Wei**</ins>, and Xianshi Zhang <br>
+This work is applying for Chinese patent <br>
+[<a href='https://xueshu.baidu.com/usercenter/paper/show?paperid=1d4h0xn0e01b02a0284108e0u1632297'>Link</a>] <br>
+
+
+
+
+<br>
+<br>
+
+Participation in Workshops and Conferences
+======
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+  **Chinese Automation Congress - CAC 2021**
+  * Beijing, China. October 22-24, 2021
+  *  Oral Presentation and Poster
 
-For more info
+  **ICRAE 2021**
+  * Guangzhou, China. May 13-17, 2021
+  *  Oral Presentation
+
+  **China Biomedical Emgineering Conference & Medical Innovation Summit**
+  * Online. April 10-12, 2021
+  *  Oral Presentation with [Haohan Bai](https://github.com/VastBo)
+
+  **ICANN 2021**
+  * Bristol, England. September 6-9, 2022
+  *  Oral Presentation
+
+
+
+<br>
+<br>
+
+Academic Service
+======
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+**Student Member**: 
+  *  European Neural Network Society (E-NNS)
+  *  Chinese Association of Automation (CAA)
+
+**Reviewer**: 
+  * ICPR 2022, ICRAE 2022
+
+
+
+
+
+<!-- <br>
+<br>
+
+Skills
+======
+------ -->
+<!-- 
+**Programming Languages**: 
+  *  Python, C/C++, Matlab, Latex 
+
+**Research Frameworks**: 
+  *  PyTorch, Tensorflow, Keras, Scikit-learn, Numpy -->
+
+
+
+
