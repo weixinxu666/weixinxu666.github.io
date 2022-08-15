@@ -73,7 +73,7 @@ Accepted by 2022 International Conference on Artificial Neural Networks (ICANN 2
 Recognition in Chest X-rays** 
 
 <ins>**Xinxu Wei**</ins>, Haohan Bai, Xianshi Zhang, and Yongjie Li <br>
-Under review by IEEE Transactions on Instrumentation and Measuremwnt (JCR Q1,
+Under review by IEEE Transactions on Instrumentation and Measurement (JCR Q1,
 IF=5.332) <br>
 [<a href='https://arxiv.org/pdf/2207.11393.pdf'>PDF</a>] <br>
 
@@ -93,7 +93,7 @@ Accepted by 2021 IEEE International Conference on Robotics and Automation Engine
 **DA-DRN: Degradation-Aware Deep Retinex Network for Low-Light Image Enhancement** 
 
 <ins>**Xinxu Wei**</ins>, Xianshi Zhang, and Yongjie Li <br>
-Under review by IEEE Transactions on Instrumentation and Measuremwnt (JCR Q1,
+Under review by IEEE Transactions on Instrumentation and Measurement (JCR Q1,
 IF=5.332) <br>
 [<a href='https://arxiv.org/pdf/2110.01809.pdf'>PDF</a>] <br>
 
