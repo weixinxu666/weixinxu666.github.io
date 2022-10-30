@@ -36,8 +36,7 @@ Accepted by 2022 International Conference on Artificial Neural Networks (ICANN 2
 Recognition in Chest X-rays** 
 
 <ins>**Xinxu Wei**</ins>, Haohan Bai, Xianshi Zhang, and Yongjie Li <br>
-Under review by IEEE Transactions on Instrumentation and Measurement (JCR Q1,
-IF=5.332) <br>
+Accepted by 2022 International Conference on Big Data (IEEE BigData) (Acceptance rate = 18%) <br>
 [<a href='https://arxiv.org/pdf/2207.11393.pdf'>PDF</a>] <br>
 
 
