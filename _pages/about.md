@@ -40,7 +40,7 @@ News
 
 
 
-[7/2022] I traveled to Montreal, Canada, and started my study at McGill. And I joined Mila - Quebec AI Institute as a graduate researcher.
+[4/2022] I travelled to Montreal, Canada, and started my study at McGill. And I joined Mila - Quebec AI Institute as a graduate researcher.
 
 
 
