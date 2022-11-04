@@ -19,6 +19,24 @@ My research interests are Visual Attention Mechanism, Contrastive Learning, Self
 Mechanism, Network Architecture Design, Convolutional/Graph/Capsule Neural Network,
 Image Enhancement/Denoising/Super Resolution, Object Detection/Segmentation.
 
+
+
+<br>
+<br>
+
+News
+======
+------
+
+[10/2022] Our paper 'Deep Pneumonia: Attention-Based Contrastive Learning for Class-Imbalanced Pneumonia Lesion Recognition in Chest X-rays' was accepted by 2022 IEEE BigData conference (Special session on Healthcare Data). Note that the acceptance rate is only 18%.
+
+<br>
+
+[7/2022] Our paper 'TSN-CA: A Two-Stage Network with Channel Attention for Low-Light Image Enhancement' was accepted by ICANN 2022. And I became a student member of E-NNS community.
+
+
+
+
 <br>
 <br>
 
@@ -144,10 +162,14 @@ Participation in Workshops and Conferences
 
   **China Biomedical Emgineering Conference & Medical Innovation Summit**
   * Online. April 10-12, 2021
-  *  Oral Presentation with [Haohan Bai](https://github.com/VastBo)
+  *  Oral Presentation with Haohan Bai
 
   **ICANN 2021**
   * Bristol, England. September 6-9, 2022
+  *  Oral Presentation
+
+  **IEEE BigData 2022**
+  * Osaka, Japan. December 17-20, 2022
   *  Oral Presentation
 
 
@@ -164,7 +186,7 @@ Academic Service
   *  Chinese Association of Automation (CAA)
 
 **Reviewer**: 
-  * ICPR 2022, ICRAE 2022
+  * ICPR 2022, ICRAE 2022, MMM 2022
 
 
 
