@@ -22,9 +22,7 @@ Image Enhancement/Denoising/Super Resolution, Object Detection/Segmentation.
 
 
 <br>
-<br>
-
-<font color=red> **I am looking for Ph.D position with RA scholarship in the United States.** </font>
+<font color=red> **I am looking for the Ph.D position with RA scholarship in the United States.** </font>
 
 <br>
 <br>
