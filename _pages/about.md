@@ -32,7 +32,19 @@ News
 
 <br>
 
+[10/2022] Our paper 'Orientation and Context Entangled Network for Retinal Vessel Segmentation' got Minor Revision by ESWA (IF=8.66). It will come soon.
+
+<br>
+
 [7/2022] Our paper 'TSN-CA: A Two-Stage Network with Channel Attention for Low-Light Image Enhancement' was accepted by ICANN 2022. And I became a student member of E-NNS community.
+
+<br>
+
+[7/2022] I traveled to Montreal, Canada, and started my study at McGill. And I joined Mila - Quebec AI Institute as a graduate researcher.
+
+<br>
+
+[9/2021] Our paper 'SARN: A Lightweight Stacked Attention Residual Network for Low-Light Image Enhancement' was accepted by ICRAE 2021.
 
 
 
