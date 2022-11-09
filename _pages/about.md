@@ -22,7 +22,7 @@ Image Enhancement/Denoising/Super Resolution, Object Detection/Segmentation.
 
 
 <br>
-<font color=red> **I am looking for the Ph.D position with RA scholarship in the United States.** </font>
+<font color=red> **I am looking for the Ph.D position with TA/RA scholarship in the United States.** </font>
 
 <br>
 <br>
@@ -31,15 +31,15 @@ News
 ======
 ------
 
-**[10/2022]** Our paper 'Deep Pneumonia: Attention-Based Contrastive Learning for Class-Imbalanced Pneumonia Lesion Recognition in Chest X-rays' was accepted by 2022 [IEEE BigData](https://bigdataieee.org/BigData2022/) (Special session on Healthcare Data). Note that the acceptance rate is only 18%.
+**[10/2022]** One paper was accepted by [IEEE BigData 2022](https://bigdataieee.org/BigData2022/) (Special session on Healthcare Data). Note that the acceptance rate is only 18%.
 
 
 
-**[7/2022]** Our paper 'Orientation and Context Entangled Network for Retinal Vessel Segmentation' got Minor Revision by journal [ESWA (IF=8.66)](https://www.sciencedirect.com/journal/expert-systems-with-applications). It will come soon.
+**[7/2022]** One paper got Minor Revision by journal [ESWA (IF=8.66)](https://www.sciencedirect.com/journal/expert-systems-with-applications). It will come soon.
 
 
 
-**[7/2022]** Our paper 'TSN-CA: A Two-Stage Network with Channel Attention for Low-Light Image Enhancement' was accepted by [ICANN 2022](https://e-nns.org/icann2022/). And I became a student member of E-NNS community.
+**[7/2022]** One paper was accepted by [ICANN 2022](https://e-nns.org/icann2022/). And I became a student member of E-NNS community.
 
 
 
@@ -47,7 +47,7 @@ News
 
 
 
-**[9/2021]** Our paper 'SARN: A Lightweight Stacked Attention Residual Network for Low-Light Image Enhancement' was accepted by [ICRAE 2021](http://www.icrae.org/).
+**[9/2021]** One paper was accepted by [ICRAE 2021](http://www.icrae.org/).
 
 
 
@@ -213,9 +213,9 @@ Awards
 ======
 ------
 
-* **Suzhou Industry Scholarship**
+* Suzhou Industry Scholarship
 
-* **First Class Scholarship of UESTC**
+* First Class Scholarship of UESTC
 
 
 
