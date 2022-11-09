@@ -213,9 +213,9 @@ Awards
 ======
 ------
 
-**Suzhou Industry Scholarship 
+**Suzhou Industry Scholarship**
 
-**First Class Scholarship of UESTC
+**First Class Scholarship of UESTC**
 
 
 
