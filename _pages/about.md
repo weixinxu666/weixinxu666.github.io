@@ -221,13 +221,15 @@ Awards
 
 
 
-<!-- <br>
 <br>
+<br>
+
+
 
 Skills
 ======
------- -->
-<!-- 
+------
+
 **Programming Languages**: 
   *  Python, C/C++, Matlab, Latex 
 
