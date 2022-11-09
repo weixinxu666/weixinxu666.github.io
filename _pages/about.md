@@ -205,6 +205,20 @@ Academic Service
 
 
 
+<br>
+<br>
+
+
+Awards
+======
+------
+
+**Suzhou Industry Scholarship 
+
+**First Class Scholarship of UESTC
+
+
+
 
 
 <!-- <br>
@@ -218,7 +232,7 @@ Skills
   *  Python, C/C++, Matlab, Latex 
 
 **Research Frameworks**: 
-  *  PyTorch, Tensorflow, Keras, Scikit-learn, Numpy -->
+  *  PyTorch, Tensorflow, Keras, Scikit-learn, Numpy
 
 
 
