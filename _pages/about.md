@@ -90,6 +90,16 @@ Publications
 Under review by Expert Systems with Applications (TOP Journal, JCR Q1, IF=8.665). Review Status: Minor Revision <br>
 [<a href='https://arxiv.org/pdf/2207.11396.pdf'>PDF</a>] <br>
 
+
+<br>
+
+**Deep Pneumonia: Attention-Based Contrastive Learning for Class-Imbalanced Pneumonia Lesion
+Recognition in Chest X-rays** 
+
+<ins>**Xinxu Wei**</ins>, Haohan Bai, Xianshi Zhang, and Yongjie Li <br>
+Accepted by 2022 International Conference on Big Data (IEEE BigData) (Acceptance rate = 18%) <br>
+[<a href='https://arxiv.org/pdf/2207.11393.pdf'>PDF</a>] <br>
+
 <br>
 
 
@@ -100,14 +110,7 @@ Accepted by 2022 International Conference on Artificial Neural Networks (ICANN 2
 [<a href='https://arxiv.org/pdf/2110.02477.pdf'>PDF</a>] <br>
 
 
-<br>
 
-**Deep Pneumonia: Attention-Based Contrastive Learning for Class-Imbalanced Pneumonia Lesion
-Recognition in Chest X-rays** 
-
-<ins>**Xinxu Wei**</ins>, Haohan Bai, Xianshi Zhang, and Yongjie Li <br>
-Accepted by 2022 International Conference on Big Data (IEEE BigData) (Acceptance rate = 18%) <br>
-[<a href='https://arxiv.org/pdf/2207.11393.pdf'>PDF</a>] <br>
 
 
 <br>
