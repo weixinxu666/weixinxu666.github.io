@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! This is Xinxu Wei. I am a dual master student at McGill University and University of Electronic Science and Technology of China (UESTC). I am also a graduate researcher at Mila - Quebec AI Institute. My supervisors are Prof. [Danilo Bzdok](https://www.mcgill.ca/neuro/danilo-bzdok-md-phd) in the [lab](http://bzdok.lab.mcgill.ca/) of Mila and Prof. [Yongjie Li](https://neuro.uestc.edu.cn/vccl/lyj.html) at [Center for Visual Cognition and Brain-Inspired Computation (ViCBiC)](https://www.neuro.uestc.edu.cn/vccl/people.html) at UESTC. 
+Hi! This is Xinxu Wei. I am a dual master student at McGill University and University of Electronic Science and Technology of China (UESTC). I am also a graduate researcher at Mila - Quebec AI Institute. My advisor is Prof. [Yongjie Li](https://neuro.uestc.edu.cn/vccl/lyj.html) at [Center for Visual Cognition and Brain-Inspired Computation (ViCBiC)](https://www.neuro.uestc.edu.cn/vccl/people.html) at UESTC. 
 <br><br>
 I like playing basketball, cooking, watching movies and NBA games. I am the fan of Kobe Bryant. I enjoy reading papers and doing research.
 <br><br>
@@ -62,8 +62,7 @@ Education
 
 * **McGill University**
     * M.Sc. in Neuroscience, 2021 - 2023, Montreal, Canada
-    * Supervisor: Prof. [Danilo Bzdok](https://www.mcgill.ca/neuro/danilo-bzdok-md-phd)
-    * Work at [Bzdok Lab](http://bzdok.lab.mcgill.ca/) at Mila-Quebec AI Institute
+    * Work at Mila-Quebec AI Institute
 
 * **University of Electronic Science and Technology of China**
     * M.Sc. in Biomedical Engineering, 2020 - 2023, Chengdu, China
