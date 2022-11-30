@@ -96,7 +96,7 @@ Under review by Expert Systems with Applications (TOP Journal, JCR Q1, IF=8.665)
 Recognition in Chest X-rays** 
 
 <ins>**Xinxu Wei**</ins>, Haohan Bai, Xianshi Zhang, and Yongjie Li <br>
-Accepted by 2022 International Conference on Big Data (IEEE BigData) (Acceptance rate = 18%) <br>
+2022 International Conference on Big Data (IEEE BigData) (Acceptance rate = 18%) <br>
 [<a href='https://arxiv.org/pdf/2207.11393.pdf'>PDF</a>] <br>
 
 <br>
@@ -105,7 +105,7 @@ Accepted by 2022 International Conference on Big Data (IEEE BigData) (Acceptance
 **TSN-CA: A Two-Stage Network with Channel Attention for Low-Light Image Enhancement** 
 
 <ins>**Xinxu Wei**</ins>, Xianshi Zhang, and Yongjie Li <br>
-Accepted by 2022 International Conference on Artificial Neural Networks (ICANN 2022) <br>
+2022 International Conference on Artificial Neural Networks (ICANN 2022) <br>
 [<a href='https://arxiv.org/pdf/2110.02477.pdf'>PDF</a>] <br>
 
 
@@ -117,7 +117,7 @@ Accepted by 2022 International Conference on Artificial Neural Networks (ICANN 2
 **SARN: A Lightweight Stacked Attention Residual Network for Low-Light Image Enhancement** 
 
 <ins>**Xinxu Wei**</ins>, Xianshi Zhang, and Yongjie Li <br>
-Accepted by 2021 IEEE International Conference on Robotics and Automation Engineering (ICRAE 2021) <br>
+2021 IEEE International Conference on Robotics and Automation Engineering (ICRAE 2021) <br>
 [<a href='https://ieeexplore.ieee.org/iel7/9657197/9657756/09657795.pdf'>PDF</a>] [<a href='https://github.com/weixinxu666/SARN'>Code</a>] <br>
   
 
