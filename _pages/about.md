@@ -31,11 +31,11 @@ News
 ======
 ------
 
+**[12/2022]** One paper was accepted by a top journal [ESWA (JCR Q1, IF=8.66)](https://www.sciencedirect.com/journal/expert-systems-with-applications). 
+
+
+
 **[10/2022]** One paper was accepted by [IEEE BigData 2022](https://bigdataieee.org/BigData2022/) (Special session on Healthcare Data). Note that the acceptance rate is only 18%.
-
-
-
-**[7/2022]** One paper got Minor Revision by journal [ESWA (IF=8.66)](https://www.sciencedirect.com/journal/expert-systems-with-applications). It will come soon.
 
 
 
@@ -86,7 +86,7 @@ Publications
 **Orientation and Context Entangled Network for Retinal Vessel Segmentation** 
 
 <ins>**Xinxu Wei**</ins>, Kaifu Yang, Danilo Bzdok, and Yongjie Li <br>
-Under review by Expert Systems with Applications (TOP Journal, JCR Q1, IF=8.665). Review Status: Minor Revision <br>
+Expert Systems with Applications (ESWA) (Top Journal, JCR Q1, IF=8.665). <br>
 [<a href='https://arxiv.org/pdf/2207.11396.pdf'>PDF</a>] <br>
 
 
