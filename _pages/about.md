@@ -87,7 +87,7 @@ Publications
 
 <ins>**Xinxu Wei**</ins>, Kaifu Yang, Danilo Bzdok, and Yongjie Li <br>
 Expert Systems with Applications (ESWA) (Top Journal, JCR Q1, IF=8.665). <br>
-[<a href='https://arxiv.org/pdf/2207.11396.pdf'>PDF</a>] <br> [<a href='[https://github.com/weixinxu666/SARN](https://github.com/weixinxu666/OCE-Net)'>Code</a>] <br>
+[<a href='https://arxiv.org/pdf/2207.11396.pdf'>PDF</a>] [<a href='[https://github.com/weixinxu666/SARN](https://github.com/weixinxu666/OCE-Net)'>Code</a>] <br>
 
 
 <br>
@@ -97,7 +97,7 @@ Recognition in Chest X-rays**
 
 <ins>**Xinxu Wei**</ins>, Haohan Bai, Xianshi Zhang, and Yongjie Li <br>
 2022 International Conference on Big Data (IEEE BigData) (Acceptance rate = 18%) <br>
-[<a href='https://arxiv.org/pdf/2207.11393.pdf'>PDF</a>] <br> [<a href='[https://github.com/weixinxu666/SARN](https://github.com/weixinxu666/Deep-Pneumonia)'>Code</a>] <br>
+[<a href='https://arxiv.org/pdf/2207.11393.pdf'>PDF</a>] [<a href='[https://github.com/weixinxu666/SARN](https://github.com/weixinxu666/Deep-Pneumonia)'>Code</a>] <br>
 
 <br>
 
