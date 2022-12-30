@@ -87,7 +87,7 @@ Publications
 
 <ins>**Xinxu Wei**</ins>, Kaifu Yang, Danilo Bzdok, and Yongjie Li <br>
 Expert Systems with Applications (ESWA) (Top Journal, JCR Q1, IF=8.665). <br>
-[<a href='https://arxiv.org/pdf/2207.11396.pdf'>PDF</a>] [<a href='https://github.com/weixinxu666/OCE-Net'>Code</a>] <br>
+[<a href='https://www.sciencedirect.com/science/article/pii/S0957417422024629'>PDF</a>] [<a href='https://github.com/weixinxu666/OCE-Net'>Code</a>] <br>
 
 
 <br>
