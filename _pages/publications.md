@@ -17,7 +17,7 @@ Papers
 **Orientation and Context Entangled Network for Retinal Vessel Segmentation** 
 
 <ins>**Xinxu Wei**</ins>, Kaifu Yang, Danilo Bzdok, and Yongjie Li <br>
-Expert Systems with Applications (TOP Journal, JCR Q1, IF=8.665). Review Status: Minor Revision <br>
+Expert Systems with Applications (TOP Journal, JCR Q1, IF=8.665) <br>
 [<a href='https://arxiv.org/pdf/2207.11396.pdf'>PDF</a>] <br>
 
 
