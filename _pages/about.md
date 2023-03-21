@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! This is Xinxu Wei. I am a dual master student at McGill University and University of Electronic Science and Technology of China (UESTC). I am also a graduate researcher at Mila - Quebec AI Institute. My advisor is Prof. [Yongjie Li](https://neuro.uestc.edu.cn/vccl/lyj.html) at [Center for Visual Cognition and Brain-Inspired Computation (ViCBiC)](https://www.neuro.uestc.edu.cn/vccl/people.html) at UESTC. 
+Hi! This is Xinxu Wei. I am an incoming ECE Ph.D. student at [Lehigh University] (https://www1.lehigh.edu/). Before that, I was dual master student at [McGill University](https://www.mcgill.ca/) and [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). I was also a graduate researcher at [Mila - Quebec AI Institute](https://mila.quebec/en/). I have obtained my Bachelor's degree from UESTC in 2020.
 <br><br>
 I like playing basketball, cooking, watching movies and NBA games. I am the fan of Kobe Bryant. I enjoy reading papers and doing research.
 <br><br>
@@ -21,15 +21,12 @@ Image Enhancement/Denoising/Super Resolution, Object Detection/Segmentation.
 
 
 
-<br>
-<font color=red> **I am looking for the Ph.D position with TA/RA scholarship in the United States.** </font>
-
-<br>
-<br>
-
 News
 ======
 ------
+
+**[2/2023]** I have obtained ECE Ph.D. position with Fellowship ($34，680) from [Lehigh University] (https://www1.lehigh.edu/). I will travel to the U.S.A. in August for pursuing my Ph.D. with the supervision of Prof. [Yu Zhang](http://yuzhangresearch.weebly.com).
+
 
 **[12/2022]** One paper was accepted by a top journal [ESWA (JCR Q1, IF=8.66)](https://www.sciencedirect.com/journal/expert-systems-with-applications). The [codes](https://github.com/weixinxu666/OCE-Net) have been released.
 
@@ -202,8 +199,11 @@ Academic Service
   *  European Neural Network Society (E-NNS)
   *  Chinese Association of Automation (CAA)
 
-**Reviewer**: 
+**Conference Reviewer**: 
   * ICPR 2022, ICRAE 2022, MMM 2022
+
+**Journal Reviewer**: 
+  * IET Image Processing, Cybernetics and Systems, International Journal of Pattern Recognition and Artificial Intelligence
 
 
 
@@ -214,6 +214,7 @@ Academic Service
 Awards
 ======
 ------
+* Fellowship of ECE Ph.D. ($34,680)
 
 * Suzhou Industry Scholarship
 
