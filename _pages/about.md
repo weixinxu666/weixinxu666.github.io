@@ -57,6 +57,10 @@ Education
 ------
 <!-- ### Education -->
 
+* **Lehigh University**
+    * Ph.D. ECE, 2023 - 2028(Expected), Bethlehem PA, USA
+    * [BIC Lab](http://yuzhangresearch.weebly.com)
+
 * **McGill University**
     * M.Sc. in Neuroscience, 2021 - 2023, Montreal, Canada
     * Work at Mila-Quebec AI Institute
