@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! This is Xinxu Wei. I am an incoming ECE Ph.D. student at [Lehigh University](https://www1.lehigh.edu). Before that, I was dual master student at [McGill University](https://www.mcgill.ca/) and [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). I was also a graduate researcher at [Mila - Quebec AI Institute](https://mila.quebec/en/). I have obtained my Bachelor's degree from UESTC in 2020.
+Hi! This is Xinxu Wei. I am an incoming ECE Ph.D. student at [Lehigh University](https://www1.lehigh.edu). Before that, I was dual master student at [McGill University](https://www.mcgill.ca/) and [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). I have obtained my Bachelor's degree from UESTC in 2020.
 <br><br>
 I like playing basketball, cooking, watching movies and NBA games. I am the fan of Kobe Bryant. I enjoy reading papers and doing research.
 <br><br>
@@ -183,9 +183,6 @@ Awards
 * Fellowship of ECE Ph.D. ($34,680)
 
 * First Class Scholarship of UESTC
-
-
-
 
 
 <br>
