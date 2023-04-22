@@ -74,7 +74,7 @@ Education
 <br>
 <br>
 
-Publications
+Journal Publications
 ======
 ------
 <!-- ### 2022 -->
@@ -87,6 +87,15 @@ Expert Systems with Applications (ESWA) (Top Journal, JCR Q1, IF=8.665). <br>
 
 
 <br>
+
+<br>
+<br>
+
+
+
+Conference Publications
+======
+------
 
 **Deep Pneumonia: Attention-Based Contrastive Learning for Class-Imbalanced Pneumonia Lesion
 Recognition in Chest X-rays** 
@@ -106,8 +115,6 @@ Recognition in Chest X-rays**
 
 
 
-
-
 <br>
 
 **SARN: A Lightweight Stacked Attention Residual Network for Low-Light Image Enhancement** 
@@ -120,11 +127,24 @@ Recognition in Chest X-rays**
 
 <br>
 
+
+In Submission
+======
+------
+
+**GCC-UNet: Retinal Vessel Segmentation\\ with Graph and Capsule Reasoning** 
+
+<ins>**Xinxu Wei**</ins>, Xi Lin, Yongjie Li, and Yu Zhang <br>
+Submitted to IEEE TMI <br>
+
+
+<br>
+
+
 **DA-DRN: Degradation-Aware Deep Retinex Network for Low-Light Image Enhancement** 
 
 <ins>**Xinxu Wei**</ins>, Xianshi Zhang, and Yongjie Li <br>
-Under review by IEEE Transactions on Instrumentation and Measurement (JCR Q1,
-IF=5.332) <br>
+Submitted to Digital Signal Processing <br>
 [<a href='https://arxiv.org/pdf/2110.01809.pdf'>PDF</a>] <br>
 
 
@@ -169,7 +189,7 @@ Academic Service
   * ICPR 2022
 
 **Journal Reviewer**: 
-  * IET Image Processing, Cybernetics and Systems, International Journal of Pattern Recognition and Artificial Intelligence
+  * IET Image Processing, Cybernetics and Systems
 
 
 
