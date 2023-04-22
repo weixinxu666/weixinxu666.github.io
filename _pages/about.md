@@ -132,10 +132,10 @@ In Submission
 ======
 ------
 
-**GCC-UNet: Retinal Vessel Segmentation\\ with Graph and Capsule Reasoning** 
+**GCC-UNet: Retinal Vessel Segmentation with Graph and Capsule Reasoning** 
 
 <ins>**Xinxu Wei**</ins>, Xi Lin, Yongjie Li, and Yu Zhang <br>
-Submitted to IEEE TMI <br>
+Submitted to IEEE Transctions on Medical Imaging (TMI) <br>
 
 
 <br>
