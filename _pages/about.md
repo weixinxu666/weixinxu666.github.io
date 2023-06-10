@@ -55,7 +55,7 @@ Education
 
 * **Lehigh University**
     * Ph.D. ECE, 2023 - 2028(Expected), Bethlehem PA, USA
-    * Work at [BIC Lab] (http://yuzhangresearch.weebly.com) founded by Dr. [Yu Zhang](https://scholar.google.com/citations?user=oDrTEi0AAAAJ&hl=en)
+    * Work at [BIC Lab](http://yuzhangresearch.weebly.com) founded by Dr. [Yu Zhang](https://scholar.google.com/citations?user=oDrTEi0AAAAJ&hl=en)
     * Lehigh Fellowship.
 
 * **McGill University**
