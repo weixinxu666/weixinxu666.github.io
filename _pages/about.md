@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 
-Hi! This is Xinxu Wei. I am an incoming ECE Ph.D. student at [Lehigh University](https://www1.lehigh.edu) advised by Dr. [Yu Zhang](http://yuzhangresearch.weebly.com/people.html). Before that, I was dual master student at [McGill University](https://www.mcgill.ca/) and [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). I have obtained my Bachelor's degree from UESTC in 2020.
+Hi! This is Xinxu Wei. I am a first-year Ph.D. student at [Lehigh University](https://www1.lehigh.edu).Before that, I was dual master student at [McGill University](https://www.mcgill.ca/) and [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). I have obtained my Bachelor's degree from UESTC in 2020.
 <br><br>
-I like playing basketball, cooking, watching movies and NBA games. I am the fan of Kobe Bryant. I enjoy reading papers and doing research.
-<br><br>
+
 
 
 
@@ -55,7 +54,6 @@ Education
 
 * **Lehigh University**
     * Ph.D. ECE, 2023 - 2028(Expected), Bethlehem PA, USA
-    * Work at [BIC Lab](http://yuzhangresearch.weebly.com) founded by Dr. [Yu Zhang](https://scholar.google.com/citations?user=oDrTEi0AAAAJ&hl=en)
     * Lehigh Fellowship
 
 * **McGill University**
