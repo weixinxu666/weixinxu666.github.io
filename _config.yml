@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xinxu Wei"
-description              : &description "Incoming Ph.D. student at Lehigh University"
+description              : &description "Ph.D. student at Lehigh University"
 url                      : https://weixinxu666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weixinxu666/weixinxu666.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xinxu Wei (韦新栩)"
   avatar           : "XinxuWei.jpg"
-  bio              : "Incoming Ph.D. Student at Lehigh University"
-  location         : "Chengdu"
+  bio              : "Ph.D. Student at Lehigh University"
+  location         : "Bethlehem PA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ibbcH1QAAAAJ&hl=EN&oi=ao"
