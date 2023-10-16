@@ -29,7 +29,7 @@ News
 
 
 
-**[10/2022]** One paper was accepted by [IEEE BigData 2022](https://bigdataieee.org/BigData2022/) (Special session on Healthcare Data). Note that the acceptance rate is only 18%. The [codes](https://github.com/weixinxu666/Deep-Pneumonia) has been released.
+**[10/2022]** One paper was accepted by [IEEE BigData 2022](https://bigdataieee.org/BigData2022/) (Special session on Healthcare Data). Note that the acceptance rate is only 18%.
 
 
 
@@ -87,7 +87,13 @@ Journal Publications
 
 <ins>**Xinxu Wei**</ins>, Kaifu Yang, Danilo Bzdok, and Yongjie Li <br>
 Expert Systems with Applications (ESWA) (Top Journal, JCR Q1, IF=8.665). <br>
-[<a href='https://www.sciencedirect.com/science/article/pii/S0957417422024629'>PDF</a>] [<a href='https://github.com/weixinxu666/OCE-Net'>Code</a>] <br>
+[<a href='https://www.sciencedirect.com/science/article/pii/S0957417422024629'>PDF</a>] [<a href='https://github.com/weixinxu666/OCE-Net'>Code</a>] <br><br>
+
+
+**DA-DRN: Degradation-Aware Deep Retinex Network for Low-Light Image Enhancement** 
+
+<ins>**Xinxu Wei**</ins>, Xi Lin, and Yongjie Li <br>
+Digital Signal Processing (DSP) [<a href='https://arxiv.org/pdf/2110.01809.pdf'>PDF</a>] <br>
 
 
 <br>
@@ -129,27 +135,8 @@ Recognition in Chest X-rays**
   
 
 
-<br>
 
 
-In Submission
-======
-------
-
-<!-- **GCC-UNet: Retinal Vessel Segmentation with Graph and Capsule Reasoning** 
-
-<ins>**Xinxu Wei**</ins>, Xi Lin, Yongjie Li, and Yu Zhang <br>
-Submitted to IEEE Transctions on Medical Imaging (TMI) <br>
-
-
-<br> -->
-
-
-**DA-DRN: Degradation-Aware Deep Retinex Network for Low-Light Image Enhancement** 
-
-<ins>**Xinxu Wei**</ins>, Xianshi Zhang, and Yongjie Li <br>
-Submitted to Digital Signal Processing <br>
-[<a href='https://arxiv.org/pdf/2110.01809.pdf'>PDF</a>] <br>
 
 
 
