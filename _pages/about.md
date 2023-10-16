@@ -22,7 +22,7 @@ News
 
 **[10/2023]** One paper was accepted by [Digital Signal Processing](https://www.sciencedirect.com/journal/digital-signal-processing). 
 
-**[2/2023]** I have obtained ECE Ph.D. position with Fellowship ($34,680) from [Lehigh University](https://www1.lehigh.edu). I will travel to the U.S.A. in August for pursuing my Ph.D. with the supervision of Prof. [Yu Zhang](http://yuzhangresearch.weebly.com).
+**[2/2023]** I have obtained ECE Ph.D. position with Fellowship from [Lehigh University](https://www1.lehigh.edu). I will travel to the U.S.A. in August for pursuing my Ph.D. with the supervision of Prof. [Yu Zhang](http://yuzhangresearch.weebly.com).
 
 
 **[12/2022]** One paper was accepted by a top journal [ESWA (JCR Q1, IF=8.66)](https://www.sciencedirect.com/journal/expert-systems-with-applications). The [codes](https://github.com/weixinxu666/OCE-Net) have been released.
