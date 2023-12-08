@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-Hi! This is Xinxu Wei. I am a first-year Ph.D. student at [Lehigh University](https://www1.lehigh.edu).Before that, I was dual master student at [McGill University](https://www.mcgill.ca/) and [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). I have obtained my Bachelor's degree from UESTC in 2020.
-<br><br>
 
 
 
@@ -22,7 +20,8 @@ News
 
 **[10/2023]** One paper was accepted by [Digital Signal Processing](https://www.sciencedirect.com/journal/digital-signal-processing). 
 
-**[2/2023]** I have obtained ECE Ph.D. position with Fellowship from [Lehigh University](https://www1.lehigh.edu).
+
+**[6/2023]** One paper was submitted to by IEEE J-BHI.
 
 
 **[12/2022]** One paper was accepted by a top journal [ESWA (JCR Q1, IF=8.66)](https://www.sciencedirect.com/journal/expert-systems-with-applications). The [codes](https://github.com/weixinxu666/OCE-Net) have been released.
@@ -54,9 +53,6 @@ Education
 ------
 <!-- ### Education -->
 
-* **Lehigh University**
-    * Ph.D. ECE, 2023 - 2028(Expected), Bethlehem PA, USA
-    * Lehigh Fellowship
 
 * **McGill University**
     * M.Sc. in Neuroscience, 2021 - 2023, Montreal, Canada
