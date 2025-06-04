@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2023.08 - 2027.01 (now)*, Ph.D., Lehigh University, Bethelehem PA, USA
-- *2021.08 - 2023.05*, Master of Science, McGill University, Montreal, Canada
+- *2021.08 - 2023.05*, Master of Science (Dual Master Degree), McGill University, Montreal, Canada
 - *2020.08 - 2023.05*, Master of Engineering, University of Electronic Science and Technology of China, Chengdu, China
 - *2016.08 - 2020.05*, Bachelor of Engineering, University of Electronic Science and Technology of China, Chengdu, China
 
@@ -58,5 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
+<!--
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
