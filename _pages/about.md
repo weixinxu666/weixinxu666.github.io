@@ -47,14 +47,16 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2023.08 - 2027.01 (now)*, Lehigh University 
-- *2021.08 - 2023.05*, McGill University
-- *2020.08 - 2023.05*, University of Electronic Science and Technology of China
-- *2016.08 - 2020.05*, University of Electronic Science and Technology of China
+- *2023.08 - 2027.01 (now)*, Ph.D., Lehigh University 
+- *2021.08 - 2023.05*, Master of Science, McGill University
+- *2020.08 - 2023.05*, Master of Engineering, University of Electronic Science and Technology of China
+- *2016.08 - 2020.05*, Bachelor of Engineering, University of Electronic Science and Technology of China
 
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
