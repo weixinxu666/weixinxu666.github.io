@@ -107,16 +107,46 @@ Digital Signal Processing (IF=2.9)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BigData</div><img src='images/dsp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BigData</div><img src='images/bigdata.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Pneumonia: Attention-Based Contrastive Learning for Class-Imbalanced Pneumonia Lesion Recognition in Chest X-rays](https://ieeexplore.ieee.org/abstract/document/10020283)
 
 **<u>Xinxu Wei</u>**, Xiangke Niu, Xianshi Zhang, Yongjie Li
 
-IEEE International Conference on Big Data (Big Data)
+2022 IEEE International Conference on Big Data (Big Data)
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/10020283)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN</div><img src='images/icann.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TSN-CA: A Two-Stage Network with Channel Attention for Low-Light Image Enhancement](https://link.springer.com/chapter/10.1007/978-3-031-15934-3_24)
+
+**<u>Xinxu Wei</u>**, Xiangke Niu, Xianshi Zhang, Yongjie Li
+
+Artificial Neural Networks and Machine Learning – ICANN 2022
+
+[Paper](https://link.springer.com/chapter/10.1007/978-3-031-15934-3_24)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/tai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TSN-CA: A Two-Stage Network with Channel Attention for Low-Light Image Enhancement](https://arxiv.org/abs/2409.11508)
+
+**<u>Xinxu Wei</u>**, Xi Lin, Yongjie Li
+
+Under Review by IEEE Transactions on Artificial Intelligence (TAI)
+
+[Paper](https://arxiv.org/abs/2409.11508)
 
 </div>
 </div>
