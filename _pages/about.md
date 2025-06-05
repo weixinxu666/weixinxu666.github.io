@@ -79,8 +79,8 @@ Neural Networks (IF=6.0)
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Nature</div>
-      <img src='images/nature.png' alt="sym" width="100%">
+      <div class="badge">Molecular Psychiatry</div>
+      <img src='images/mp.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -89,7 +89,7 @@ Neural Networks (IF=6.0)
 
 Yong Jiao, Kanhao Zhao, **<u>Xinxu Wei</u>**, Nancy B. Carlisle, Corey J. Keller, Desmond J. Oathes, Gregory A. Fonzo, Yu Zhang
 
-*Molecular Psychiatry*, Nature Publishing Group, 2025
+Molecular Psychiatry (IF=9.6)
 
 [Paper](https://www.nature.com/articles/s41380-025-02404-x)
 
@@ -184,7 +184,7 @@ Artificial Neural Networks and Machine Learning – ICANN 2022
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/tai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TSN-CA: A Two-Stage Network with Channel Attention for Low-Light Image Enhancement](https://arxiv.org/abs/2409.11508)
+[Retinal vessel segmentation with deep graph and capsule reasoning](https://arxiv.org/abs/2409.11508)
 
 **<u>Xinxu Wei</u>**, Xi Lin, Yongjie Li
 
