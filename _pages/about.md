@@ -39,7 +39,6 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 
   [Paper](http://arxiv.org/abs/2506.02044)
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
@@ -192,6 +191,22 @@ IEEE International Symposium on Biomedical Imaging (ISBI) 2024
 Artificial Neural Networks and Machine Learning – ICANN 2022
 
 [Paper](https://link.springer.com/chapter/10.1007/978-3-031-15934-3_24)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRAE 2021</div><img src='images/icrae.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SARN: A lightweight stacked attention residual network for
+low-light image enhancemen](https://ieeexplore.ieee.org/abstract/document/9657795)
+
+**<u>Xinxu Wei</u>**, Xianshi Zhang, Yongjie Li
+
+2021 International Conference on Robotics and Automation Engineering (ICRAE)
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/9657795)
 
 </div>
 </div>
