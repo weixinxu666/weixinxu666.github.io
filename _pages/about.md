@@ -48,8 +48,7 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/icml.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG**  
-&nbsp;&nbsp;&nbsp; [Paper](https://icml.cc/virtual/2025/poster/44482) &nbsp;&nbsp;&nbsp; [Code](https://github.com/weixinxu666/EEG_DisGCMAE)
+**Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG** &nbsp;&nbsp; [Paper](https://icml.cc/virtual/2025/poster/44482) &nbsp;&nbsp;[Code](https://github.com/weixinxu666/EEG_DisGCMAE)
 
 
 **<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Hua Xie, Lifang He, Yu Zhang
