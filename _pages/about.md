@@ -32,7 +32,7 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 
   [A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder](https://arxiv.org/abs/2406.00000) 
 
-  **Xinxu Wei**, Kanhao Zhao, Yong Jiao, Lifang He, Yu Zhang
+**<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Lifang He, Yu Zhang
 
   NeurIPS 2025 Submission
 
@@ -49,7 +49,7 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 
 [Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG](https://icml.cc/virtual/2025/poster/44482)
 
-**Xinxu Wei**, Kanhao Zhao, Yong Jiao, Hua Xie, Lifang He, Yu Zhang
+**<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Hua Xie, Lifang He, Yu Zhang
 
 ICML 2025 
 
@@ -65,7 +65,7 @@ ICML 2025
 [Multi-modal
 cross-domain self-supervised pre-training for fMRI and EEG fusion](https://www.sciencedirect.com/science/article/pii/S089360802400995X)
 
-**Xinxu Wei**, Kanhao Zhao, Yong Jiao, Hua Xie, Lifang He, Yu Zhang
+**<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Hua Xie, Lifang He, Yu Zhang
 
 Neural Networks 
 
@@ -76,9 +76,26 @@ Neural Networks
 
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/eswa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Orientation and Context Entangled Network for Retinal Vessel Segmentation](https://www.sciencedirect.com/science/article/pii/S0957417422024629))
+
+**<u>Xinxu Wei</u>**, Kaifu Yang, Danilo Bzdok, Yongjie Li
+
+Expert Systems with Applications 
+
+[Paper]([https://arxiv.org/pdf/2406.00000.pdf](https://arxiv.org/abs/2411.19230))
+
+</div>
+</div>
+
+
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.08* Lehigh University Fellowship. 
+- *2022.05* First-Class Scholarship of UESTC. 
 
 # 📖 Educations
 - *2023.08 - 2027.01 (now)*, Ph.D., Lehigh University, Bethelehem PA, USA
