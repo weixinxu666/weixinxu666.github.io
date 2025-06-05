@@ -76,6 +76,28 @@ Neural Networks (IF=6.0)
 
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Nature</div>
+      <img src='images/nature.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Deep graph learning of multimodal brain networks defines treatment-predictive signatures in major depression](https://www.nature.com/articles/s41380-025-02404-x)
+
+Yong Jiao, Kanhao Zhao, **<u>Xinxu Wei</u>**, Nancy B. Carlisle, Corey J. Keller, Desmond J. Oathes, Gregory A. Fonzo, Yu Zhang
+
+*Molecular Psychiatry*, Nature Publishing Group, 2025
+
+[Paper](https://www.nature.com/articles/s41380-025-02404-x)
+
+  </div>
+</div>
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expert Systems with Applications</div><img src='images/eswa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -105,6 +127,28 @@ Digital Signal Processing (IF=2.9)
 
 </div>
 </div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ISBI 2024</div>
+      <img src='images/isbi.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Vascular Skeleton Deformation Evaluation Based on the Metric of Sinkhorn Distance](https://ieeexplore.ieee.org/document/10635709)
+
+Xi Lin, **<u>Xinxu Wei</u>**, Shixuan Zhao, Yongjie Li
+
+IEEE International Symposium on Biomedical Imaging (ISBI) 2024
+
+[Paper](https://ieeexplore.ieee.org/document/10635709)
+
+  </div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BigData</div><img src='images/bigdata.png' alt="sym" width="100%"></div></div>
