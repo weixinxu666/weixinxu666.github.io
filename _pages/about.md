@@ -38,6 +38,7 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
   NeurIPS 2025 Submission
 
   [Paper](http://arxiv.org/abs/2506.02044)
+  [Code](https://github.com/weixinxu666/BrainGFM)
 
 </div>
 </div>
@@ -54,6 +55,7 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 International Conference on Machine Learning (ICML) 2025 
 
 [Paper](https://arxiv.org/abs/2411.19230)
+[Code](https://github.com/weixinxu666/EEG_DisGCMAE)
 
 </div>
 </div>
@@ -92,6 +94,7 @@ Yong Jiao, Kanhao Zhao, **<u>Xinxu Wei</u>**, Nancy B. Carlisle, Corey J. Keller
 Molecular Psychiatry (JCR Q1, IF=9.6)
 
 [Paper](https://www.nature.com/articles/s41380-025-02404-x)
+[Code](https://github.com/YongJiao10/MultimodalGraph4MDD)
 
   </div>
 </div>
@@ -109,6 +112,7 @@ Molecular Psychiatry (JCR Q1, IF=9.6)
 Expert Systems with Applications (ICR Q1, IF=7.5)
 
 [Paper](https://arxiv.org/abs/2411.19230)
+[Code](https://github.com/weixinxu666/OCE-Net)
 
 </div>
 </div>
@@ -160,6 +164,7 @@ Xi Lin, **<u>Xinxu Wei</u>**, Shixuan Zhao, Yongjie Li
 IEEE International Symposium on Biomedical Imaging (ISBI) 2024
 
 [Paper](https://ieeexplore.ieee.org/document/10635709)
+[Code](https://github.com/lwannnn/Skeleton-Matching-Distance)
 
   </div>
 </div>
@@ -207,6 +212,7 @@ low-light image enhancemen](https://ieeexplore.ieee.org/abstract/document/965779
 2021 International Conference on Robotics and Automation Engineering (ICRAE)
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/9657795)
+[Code](https://github.com/weixinxu666/SARN)
 
 </div>
 </div>
