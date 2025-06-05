@@ -22,7 +22,7 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One first-author paper has been accepted by ICML 2025 (CCF-A).
+- *2025.05*: &nbsp;🎉🎉 One first-author paper has been accepted by **ICML 2025** (CCF-A).
 - *2025.03*: &nbsp;🎉🎉 One co-author paper has been accepted by Molecular Psychiatry (JCR Q1,IF=9.6). 
 - *2025.01*: &nbsp;🎉🎉 One first-author paper has been accepted by Neural Networks (JCR Q1, CCF-B, IF=6.0).
 - *2024.11*: &nbsp;🎉🎉 Successfully passing my Ph.D. Qualifier Exam! 
@@ -48,7 +48,7 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/icml.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG[Paper](https://icml.cc/virtual/2025/poster/44482)[Code](https://github.com/weixinxu666/EEG_DisGCMAE)
+Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG \quad [Paper](https://icml.cc/virtual/2025/poster/44482) \quad [Code](https://github.com/weixinxu666/EEG_DisGCMAE)
 
 **<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Hua Xie, Lifang He, Yu Zhang
 
