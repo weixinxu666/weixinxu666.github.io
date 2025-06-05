@@ -22,8 +22,9 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One first-author paper has been accepted by ICML 2025. 
-- *2025.01*: &nbsp;🎉🎉 One first-author paper has been accepted by Neural Networks (IF=6.0). 
+- *2025.05*: &nbsp;🎉🎉 One first-author paper has been accepted by ICML 2025 (CCF-A).
+- *2025.01*: &nbsp;🎉🎉 One co-author paper has been accepted by Molecular Psychiatry (JCR Q1,IF=9.6). 
+- *2025.01*: &nbsp;🎉🎉 One first-author paper has been accepted by Neural Networks (JCR Q1, CCF-B, IF=6.0). 
 
 # 📝 Publications 
 
@@ -51,7 +52,7 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 
 **<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Hua Xie, Lifang He, Yu Zhang
 
-ICML 2025 
+Forty-Second International Conference on Machine Learning (ICML) 2025 
 
 [Paper](https://arxiv.org/abs/2411.19230)
 
@@ -124,6 +125,21 @@ Expert Systems with Applications (IF=7.5)
 Digital Signal Processing (IF=2.9) 
 
 [Paper](https://www.sciencedirect.com/science/article/pii/S1051200423003512)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/vpbsd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VPBSD: Vessel-Pattern-Based Semi-Supervised Distillation for Efficient 3D Microscopic Cerebrovascular Segmentation](https://arxiv.org/abs/2411.09567)
+
+Xi Lin, Shixuan Zhao, **<u>Xinxu Wei</u>**,  Yongjie Li
+
+Under Review by Pattern Recognition (PR)
+
+[Paper](https://arxiv.org/abs/2411.09567)
 
 </div>
 </div>
