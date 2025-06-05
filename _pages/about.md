@@ -36,7 +36,7 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 
   NeurIPS 2025 Submission
 
-  [Paper](https://arxiv.org/pdf/2406.00000.pdf)
+  [Paper]([https://arxiv.org/pdf/2406.00000.pdf](https://arxiv.org/pdf/2406.00000.pdf))
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -53,9 +53,8 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 
 ICML 2025 
 
-[Paper](https://arxiv.org/pdf/2406.00000.pdf)
+[Paper]([https://arxiv.org/pdf/2406.00000.pdf](https://arxiv.org/abs/2411.19230))
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
@@ -68,11 +67,10 @@ cross-domain self-supervised pre-training for fMRI and EEG fusion](https://www.s
 
 **Xinxu Wei**, Kanhao Zhao, Yong Jiao, Hua Xie, Lifang He, Yu Zhang
 
-ICML 2025 
+Neural Networks 
 
- [Paper](https://arxiv.org/pdf/2406.00000.pdf)
+ [Paper]([https://arxiv.org/pdf/2406.00000.pdf](https://www.sciencedirect.com/science/article/pii/S089360802400995X))
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
