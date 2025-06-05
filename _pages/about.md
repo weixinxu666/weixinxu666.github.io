@@ -167,7 +167,7 @@ IEEE International Symposium on Biomedical Imaging (ISBI) 2024
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BigData</div><img src='images/bigdata.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BigData 2022</div><img src='images/bigdata.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Pneumonia: Attention-Based Contrastive Learning for Class-Imbalanced Pneumonia Lesion Recognition in Chest X-rays](https://ieeexplore.ieee.org/abstract/document/10020283)
@@ -182,7 +182,7 @@ IEEE International Symposium on Biomedical Imaging (ISBI) 2024
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN</div><img src='images/icann.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2022</div><img src='images/icann.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TSN-CA: A Two-Stage Network with Channel Attention for Low-Light Image Enhancement](https://link.springer.com/chapter/10.1007/978-3-031-15934-3_24)
