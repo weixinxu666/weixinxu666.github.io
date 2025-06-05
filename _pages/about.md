@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineering at Lehigh University, advised by Dr. Yu Zhang and Dr. Lifang He. My research lies at the intersection of machine learning, neuroscience, and medical AI, with a particular focus on brain graph foundation models, self-supervised pre-training, and graph neural networks. I hold dual master’s degrees in Neuroscience from McGill University and Biomedical Engineering from the University of Electronic Science and Technology of China.
+Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineering at [Lehigh University](https://www2.lehigh.edu/), advised by Dr. [Yu Zhang](https://yuzhangresearch.weebly.com/) and Dr. [Lifang He](https://scholar.google.com/citations?user=obgTcyoAAAAJ&hl=en). My research lies at the intersection of machine learning, neuroscience, and medical AI, with a particular focus on brain graph foundation models, self-supervised pre-training, and graph neural networks. I hold dual master’s degrees in Neuroscience from [McGill University](https://www.mcgill.ca/) and Biomedical Engineering from the (University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
 
 
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One first-author paper has been accepted by ICML 2025 (CCF-A).
 - *2025.03*: &nbsp;🎉🎉 One co-author paper has been accepted by Molecular Psychiatry (JCR Q1,IF=9.6). 
-- *2025.01*: &nbsp;🎉🎉 One first-author paper has been accepted by Neural Networks (JCR Q1, CCF-B, IF=6.0). 
+- *2025.01*: &nbsp;🎉🎉 One first-author paper has been accepted by Neural Networks (JCR Q1, CCF-B, IF=6.0).
+- *2024.11*: &nbsp;🎉🎉 Successfully passing my Ph.D. Qualifier Exam! 
 
 # 📝 Publications 
 
