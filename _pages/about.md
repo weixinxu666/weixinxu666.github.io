@@ -23,7 +23,7 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One first-author paper has been accepted by ICML 2025 (CCF-A).
-- *2025.01*: &nbsp;🎉🎉 One co-author paper has been accepted by Molecular Psychiatry (JCR Q1,IF=9.6). 
+- *2025.03*: &nbsp;🎉🎉 One co-author paper has been accepted by Molecular Psychiatry (JCR Q1,IF=9.6). 
 - *2025.01*: &nbsp;🎉🎉 One first-author paper has been accepted by Neural Networks (JCR Q1, CCF-B, IF=6.0). 
 
 # 📝 Publications 
@@ -52,7 +52,7 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 
 **<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Hua Xie, Lifang He, Yu Zhang
 
-Forty-Second International Conference on Machine Learning (ICML) 2025 
+International Conference on Machine Learning (ICML) 2025 
 
 [Paper](https://arxiv.org/abs/2411.19230)
 
@@ -68,7 +68,7 @@ cross-domain self-supervised pre-training for fMRI and EEG fusion](https://www.s
 
 **<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Hua Xie, Lifang He, Yu Zhang
 
-Neural Networks (IF=6.0)
+Neural Networks (JCR Q1, CCF-B, IF=6.0)
 
  [Paper](https://www.sciencedirect.com/science/article/pii/S089360802400995X)
 
@@ -90,7 +90,7 @@ Neural Networks (IF=6.0)
 
 Yong Jiao, Kanhao Zhao, **<u>Xinxu Wei</u>**, Nancy B. Carlisle, Corey J. Keller, Desmond J. Oathes, Gregory A. Fonzo, Yu Zhang
 
-Molecular Psychiatry (IF=9.6)
+Molecular Psychiatry (JCR Q1, IF=9.6)
 
 [Paper](https://www.nature.com/articles/s41380-025-02404-x)
 
@@ -107,7 +107,7 @@ Molecular Psychiatry (IF=9.6)
 
 **<u>Xinxu Wei</u>**, Kaifu Yang, Danilo Bzdok, Yongjie Li
 
-Expert Systems with Applications (IF=7.5)
+Expert Systems with Applications (ICR Q1, IF=7.5)
 
 [Paper](https://arxiv.org/abs/2411.19230)
 
@@ -122,7 +122,7 @@ Expert Systems with Applications (IF=7.5)
 
 **<u>Xinxu Wei</u>**, Xi Lin, Yongjie Li
 
-Digital Signal Processing (IF=2.9) 
+Digital Signal Processing (JCR Q2, IF=2.9) 
 
 [Paper](https://www.sciencedirect.com/science/article/pii/S1051200423003512)
 
