@@ -36,7 +36,7 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 
   NeurIPS 2025 Submission
 
-  [Paper]([https://arxiv.org/pdf/2406.00000.pdf](https://arxiv.org/pdf/2406.00000.pdf))
+  [Paper](https://arxiv.org/pdf/2406.00000.pdf)
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -53,7 +53,7 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 
 ICML 2025 
 
-[Paper]([https://arxiv.org/pdf/2406.00000.pdf](https://arxiv.org/abs/2411.19230))
+[Paper](https://arxiv.org/abs/2411.19230)
 
 </div>
 </div>
@@ -67,9 +67,9 @@ cross-domain self-supervised pre-training for fMRI and EEG fusion](https://www.s
 
 **<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Hua Xie, Lifang He, Yu Zhang
 
-Neural Networks 
+Neural Networks (IF=6.0)
 
- [Paper]([https://arxiv.org/pdf/2406.00000.pdf](https://www.sciencedirect.com/science/article/pii/S089360802400995X))
+ [Paper](https://www.sciencedirect.com/science/article/pii/S089360802400995X)
 
 </div>
 </div>
@@ -80,13 +80,28 @@ Neural Networks
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/eswa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Orientation and Context Entangled Network for Retinal Vessel Segmentation](https://www.sciencedirect.com/science/article/pii/S0957417422024629))
+[Orientation and Context Entangled Network for Retinal Vessel Segmentation](https://www.sciencedirect.com/science/article/pii/S0957417422024629)
 
 **<u>Xinxu Wei</u>**, Kaifu Yang, Danilo Bzdok, Yongjie Li
 
-Expert Systems with Applications 
+Expert Systems with Applications (IF=7.5)
 
-[Paper]([https://arxiv.org/pdf/2406.00000.pdf](https://arxiv.org/abs/2411.19230))
+[Paper](https://arxiv.org/abs/2411.19230)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSP</div><img src='images/dsp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DA-DRN: A degradation-aware deep Retinex network for low-light image enhancement](https://www.sciencedirect.com/science/article/pii/S1051200423003512)
+
+**<u>Xinxu Wei</u>**, Xi Lin, Yongjie Li
+
+Digital Signal Processing (IF=2.9) 
+
+[Paper](https://www.sciencedirect.com/science/article/pii/S1051200423003512)
 
 </div>
 </div>
