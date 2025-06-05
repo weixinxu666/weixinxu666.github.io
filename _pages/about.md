@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineering at [Lehigh University](https://www2.lehigh.edu/), advised by Dr. [Yu Zhang](https://yuzhangresearch.weebly.com/) and Dr. [Lifang He](https://scholar.google.com/citations?user=obgTcyoAAAAJ&hl=en). My research lies at the intersection of machine learning, neuroscience, and medical AI, with a particular focus on brain graph foundation models, self-supervised pre-training, and graph neural networks. I hold dual master’s degrees in Neuroscience from [McGill University](https://www.mcgill.ca/) and Biomedical Engineering from the (University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
+Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineering at [Lehigh University](https://www2.lehigh.edu/), advised by Dr. [Yu Zhang](https://yuzhangresearch.weebly.com/) and Dr. [Lifang He](https://scholar.google.com/citations?user=obgTcyoAAAAJ&hl=en). My research lies at the intersection of **deep learning, machine learning, data mining, computer vision, neuroscience, and medical AI**, with a particular focus on **brain graph foundation models, self-supervised pre-training, and graph neural networks**. I hold dual master’s degrees in Neuroscience from [McGill University](https://www.mcgill.ca/) and Biomedical Engineering from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
 
 
 
