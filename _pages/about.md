@@ -17,7 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineering at [Lehigh University](https://www2.lehigh.edu/), advised by Dr. [Yu Zhang](https://yuzhangresearch.weebly.com/) and Dr. [Lifang He](https://scholar.google.com/citations?user=obgTcyoAAAAJ&hl=en). My research lies at the intersection of **deep learning, machine learning, data mining, computer vision, neuroscience, and medical AI**, with a particular focus on **brain graph foundation models, self-supervised pre-training, and graph neural networks**. I hold dual master’s degrees in Neuroscience from [McGill University](https://www.mcgill.ca/) and Biomedical Engineering from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
+
+Hello, my name is **Xinxu Wei**. I am currently a Ph.D. student (2023–2027) at [Lehigh University](https://www2.lehigh.edu/), advised by Dr. [Yu Zhang](https://yuzhangresearch.weebly.com/) and Dr. [Lifang He](https://scholar.google.com/citations?user=obgTcyoAAAAJ&hl=en).
+
+My research lies at the intersection of **deep learning, machine learning, data mining, computer vision, neuroscience, and medical AI**, with a particular focus on **brain graph foundation models, self-supervised pre-training, and graph neural networks**.
+
+I hold dual master’s degrees from [McGill University](https://www.mcgill.ca/) in **Neuroscience** (2021–2023) and from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (2020–2023). Prior to that, I completed my undergraduate studies at the University of Electronic Science and Technology of China (2016–2020).
+
 
 
 
@@ -32,7 +38,7 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nips.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-  A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder[Paper](http://arxiv.org/abs/2506.02044)[Code](https://github.com/weixinxu666/BrainGFM)
+  **A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder** &nbsp;&nbsp; [**[Paper]**](http://arxiv.org/abs/2506.02044) &nbsp;[**[Code]**](https://github.com/weixinxu666/BrainGFM)
 
 **<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Lifang He, Yu Zhang
 
@@ -48,7 +54,7 @@ Hello, my name is Xinxu Wei. I am currently a Ph.D. student in Computer Engineer
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/icml.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG** &nbsp;&nbsp; [**[Paper]**](https://icml.cc/virtual/2025/poster/44482) &nbsp;[**[Code]**](https://github.com/weixinxu666/EEG_DisGCMAE)
+**Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG** &nbsp;&nbsp; [**[Link]**](https://icml.cc/virtual/2025/poster/44482) &nbsp; [**[Paper]**](https://arxiv.org/abs/2411.19230) &nbsp;[**[Code]**](https://github.com/weixinxu666/EEG_DisGCMAE)
 
 
 **<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Hua Xie, Lifang He, Yu Zhang
@@ -64,7 +70,7 @@ International Conference on Machine Learning (ICML) 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/nn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Multi-modal cross-domain self-supervised pre-training for fMRI and EEG fusion[Paper](https://www.sciencedirect.com/science/article/pii/S089360802400995X)
+**Multi-modal cross-domain self-supervised pre-training for fMRI and EEG fusion** &nbsp;&nbsp; [**[Paper]**](https://www.sciencedirect.com/science/article/pii/S089360802400995X)
 
 **<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Hua Xie, Lifang He, Yu Zhang
 
@@ -85,7 +91,7 @@ Neural Networks (JCR Q1, CCF-B, IF=6.0)
   </div>
   <div class='paper-box-text' markdown="1">
 
-Deep graph learning of multimodal brain networks defines treatment-predictive signatures in major depression[Paper](https://www.nature.com/articles/s41380-025-02404-x)[Code](https://github.com/YongJiao10/MultimodalGraph4MDD)
+**Deep graph learning of multimodal brain networks defines treatment-predictive signatures in major depression** &nbsp;&nbsp; [**[Paper]**](https://www.nature.com/articles/s41380-025-02404-x) &nbsp;[**[Code]**](https://github.com/YongJiao10/MultimodalGraph4MDD)
 
 Yong Jiao, Kanhao Zhao, **<u>Xinxu Wei</u>**, Nancy B. Carlisle, Corey J. Keller, Desmond J. Oathes, Gregory A. Fonzo, Yu Zhang
 
@@ -102,7 +108,7 @@ Molecular Psychiatry (JCR Q1, IF=9.6)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expert Systems with Applications</div><img src='images/eswa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Orientation and Context Entangled Network for Retinal Vessel Segmentation[Paper](https://www.sciencedirect.com/science/article/pii/S0957417422024629)[Code](https://github.com/weixinxu666/OCE-Net)
+**Orientation and Context Entangled Network for Retinal Vessel Segmentation** &nbsp;&nbsp; [**[Paper]**](https://www.sciencedirect.com/science/article/pii/S0957417422024629) &nbsp;[**[Code]**](https://github.com/weixinxu666/OCE-Net)
 
 **<u>Xinxu Wei</u>**, Kaifu Yang, Danilo Bzdok, Yongjie Li
 
@@ -116,7 +122,7 @@ Expert Systems with Applications (ICR Q1, IF=7.5)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital Signal Processing</div><img src='images/dsp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-DA-DRN: A degradation-aware deep Retinex network for low-light image enhancement[Paper](https://www.sciencedirect.com/science/article/pii/S1051200423003512)
+**DA-DRN: A degradation-aware deep Retinex network for low-light image enhancement** &nbsp;&nbsp; [**[Paper]**](https://www.sciencedirect.com/science/article/pii/S1051200423003512)
 
 **<u>Xinxu Wei</u>**, Xi Lin, Yongjie Li
 
@@ -131,7 +137,7 @@ Digital Signal Processing (JCR Q2, IF=2.9)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/vpbsd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-VPBSD: Vessel-Pattern-Based Semi-Supervised Distillation for Efficient 3D Microscopic Cerebrovascular Segmentation[Paper](https://arxiv.org/abs/2411.09567)
+**VPBSD: Vessel-Pattern-Based Semi-Supervised Distillation for Efficient 3D Microscopic Cerebrovascular Segmentation** &nbsp;&nbsp; [**[Paper]**](https://arxiv.org/abs/2411.09567)
 
 Xi Lin, Shixuan Zhao, **<u>Xinxu Wei</u>**,  Yongjie Li
 
@@ -152,8 +158,8 @@ Under Review by Pattern Recognition (PR)
   </div>
   <div class='paper-box-text' markdown="1">
 
-Vascular Skeleton Deformation Evaluation Based on the Metric of Sinkhorn Distance[Paper](https://ieeexplore.ieee.org/document/10635709)
-[Code](https://github.com/lwannnn/Skeleton-Matching-Distance)
+**Vascular Skeleton Deformation Evaluation Based on the Metric of Sinkhorn Distance** &nbsp;&nbsp; [**[Paper]**](https://ieeexplore.ieee.org/document/10635709)
+ &nbsp;[**[Code]**](https://github.com/lwannnn/Skeleton-Matching-Distance)
 
 Xi Lin, **<u>Xinxu Wei</u>**, Shixuan Zhao, Yongjie Li
 
@@ -169,7 +175,7 @@ IEEE International Symposium on Biomedical Imaging (ISBI) 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BigData 2022</div><img src='images/bigdata.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Deep Pneumonia: Attention-Based Contrastive Learning for Class-Imbalanced Pneumonia Lesion Recognition in Chest X-rays[Paper](https://ieeexplore.ieee.org/abstract/document/10020283)
+**Deep Pneumonia: Attention-Based Contrastive Learning for Class-Imbalanced Pneumonia Lesion Recognition in Chest X-rays** &nbsp;&nbsp; [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/10020283)
 
 **<u>Xinxu Wei</u>**, Xiangke Niu, Xianshi Zhang, Yongjie Li
 
@@ -184,7 +190,7 @@ Deep Pneumonia: Attention-Based Contrastive Learning for Class-Imbalanced Pneumo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2022</div><img src='images/icann.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-TSN-CA: A Two-Stage Network with Channel Attention for Low-Light Image Enhancement[Paper](https://link.springer.com/chapter/10.1007/978-3-031-15934-3_24)
+**TSN-CA: A Two-Stage Network with Channel Attention for Low-Light Image Enhancement** &nbsp;&nbsp; [**[Paper]**](https://link.springer.com/chapter/10.1007/978-3-031-15934-3_24)
 
 **<u>Xinxu Wei</u>**, Xiangke Niu, Xianshi Zhang, Yongjie Li
 
@@ -197,9 +203,9 @@ Artificial Neural Networks and Machine Learning – ICANN 2022
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRAE 2021</div><img src='images/icrae.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SARN: A lightweight stacked attention residual network for
-low-light image enhancement[Paper](https://ieeexplore.ieee.org/abstract/document/9657795)
-[Code](https://github.com/weixinxu666/SARN)
+**SARN: A lightweight stacked attention residual network for
+low-light image enhancement** &nbsp;&nbsp; [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/9657795)
+ &nbsp;[**[Code]**](https://github.com/weixinxu666/SARN)
 
 **<u>Xinxu Wei</u>**, Xianshi Zhang, Yongjie Li
 
@@ -214,7 +220,7 @@ low-light image enhancement[Paper](https://ieeexplore.ieee.org/abstract/document
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/tai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Retinal vessel segmentation with deep graph and capsule reasoning[Paper](https://arxiv.org/abs/2409.11508)
+**Retinal vessel segmentation with deep graph and capsule reasoning** &nbsp;&nbsp; [**[Paper]**](https://arxiv.org/abs/2409.11508)
 
 **<u>Xinxu Wei</u>**, Xi Lin, Yongjie Li
 
