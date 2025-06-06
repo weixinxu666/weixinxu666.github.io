@@ -22,7 +22,7 @@ Hello, my name is **Xinxu Wei**. I am currently a Ph.D. student (2023–2027) at
 
 My research lies at the intersection of **deep learning, machine learning, data mining, computer vision, neuroscience, and medical AI**, with a particular focus on **brain graph foundation models, self-supervised pre-training, and graph neural networks**.
 
-I hold dual master’s degrees from [McGill University](https://www.mcgill.ca/) in **Neuroscience** (2021–2023) and from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (2020–2023). Prior to that, I completed my undergraduate studies at the University of Electronic Science and Technology of China (2016–2020).
+I hold dual master’s degrees from [McGill University](https://www.mcgill.ca/) (2021–2023) and from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (2020–2023). Prior to that, I completed my undergraduate studies at the University of Electronic Science and Technology of China (2016–2020).
 
 
 
@@ -91,7 +91,7 @@ Neural Networks (JCR Q1, CCF-B, IF=6.0)
   </div>
   <div class='paper-box-text' markdown="1">
 
-**Deep graph learning of multimodal brain networks defines treatment-predictive signatures in major depression** &nbsp;&nbsp; [**[Paper]**](https://www.nature.com/articles/s41380-025-02404-x) &nbsp;[**[Code]**](https://github.com/YongJiao10/MultimodalGraph4MDD)
+**Deep graph learning of multimodal brain networks defines treatment-predictive signatures in major depression** &nbsp;&nbsp; [**[Paper]**](https://www.nature.com/articles/s41380-025-02974-6) &nbsp;[**[Code]**](https://github.com/YongJiao10/MultimodalGraph4MDD)
 
 Yong Jiao, Kanhao Zhao, **<u>Xinxu Wei</u>**, Nancy B. Carlisle, Corey J. Keller, Desmond J. Oathes, Gregory A. Fonzo, Yu Zhang
 
