@@ -42,7 +42,7 @@ I hold dual master’s degrees from [McGill University](https://www.mcgill.ca/) 
 
 **<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Lifang He, Yu Zhang
 
-  NeurIPS 2025 Submission
+  Under Review
 
 
 
@@ -54,7 +54,7 @@ I hold dual master’s degrees from [McGill University](https://www.mcgill.ca/) 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/icml.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG** &nbsp;&nbsp; [**[Link]**](https://icml.cc/virtual/2025/poster/44482) &nbsp; [**[Paper]**](https://arxiv.org/abs/2411.19230) &nbsp;[**[Code]**](https://github.com/weixinxu666/EEG_DisGCMAE)
+**Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG** &nbsp;&nbsp; [**[Openreview]**](https://openreview.net/forum?id=gHzx2apaYD&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions)) &nbsp; [**[Paper]**](https://arxiv.org/abs/2411.19230) &nbsp;[**[Code]**](https://github.com/weixinxu666/EEG_DisGCMAE)
 
 
 **<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Hua Xie, Lifang He, Yu Zhang
@@ -235,7 +235,8 @@ Under Review by IEEE Transactions on Artificial Intelligence (TAI)
 
 # 🎖 Honors and Awards
 - *2023.08* Lehigh University Fellowship. 
-- *2022.05* First-Class Scholarship of UESTC. 
+- *2022.05* First-Class Scholarship of UESTC.
+- *2022.04* Suzhou Industrial Park Scholarship.
 
 # 📖 Educations
 - *2023.08 - 2027.01 (now)*, Ph.D., **Lehigh University**, Bethelehem PA, USA
