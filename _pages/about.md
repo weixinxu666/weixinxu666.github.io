@@ -52,7 +52,7 @@ Under Review， (CCF A, Core A*)
 
 
 
-  **A Brain Graph Foundation Model: Pre-Training and PromptTuning across Broad Atlases and Disorders** &nbsp;&nbsp; [**[Openreview]**](https://openreview.net/forum?id=PeGHkAaRxs) &nbsp;[**[Code]**](https://github.com/weixinxu666/BrainGFM)
+  **A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning across Broad Atlases and Disorders** &nbsp;&nbsp; [**[Openreview]**](https://openreview.net/forum?id=PeGHkAaRxs) &nbsp;[**[Code]**](https://github.com/weixinxu666/BrainGFM)
 
 **<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Lifang He, Yu Zhang
 
