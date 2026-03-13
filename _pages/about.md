@@ -28,6 +28,7 @@ I hold dual master’s degrees from [McGill University](https://www.mcgill.ca/) 
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One first-author paper has been accepted by **ICLR 2026** (CCF-A).
 - *2025.05*: &nbsp;🎉🎉 One first-author paper has been accepted by **ICML 2025** (CCF-A).
 - *2025.03*: &nbsp;🎉🎉 One co-author paper has been accepted by Molecular Psychiatry (JCR Q1,IF=9.6). 
 - *2025.01*: &nbsp;🎉🎉 One first-author paper has been accepted by Neural Networks (JCR Q1, CCF-B, IF=6.0).
@@ -38,11 +39,25 @@ I hold dual master’s degrees from [McGill University](https://www.mcgill.ca/) 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nips.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-  **A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder** &nbsp;&nbsp; [**[Paper]**](http://arxiv.org/abs/2506.02044) &nbsp;[**[Code]**](https://github.com/weixinxu666/BrainGFM)
+
+  **Diffusion-Guided Pretraining for Brain Graph Foundation Models** 
+
+**<u>Xinxu Wei</u>**, Rong Zhou, Lifang He, Yu Zhang
+
+International Conference on Machine Learning (ICML), 2026
+Under Review， (CCF A, Core A*)
+
+</div>
+</div>
+
+
+
+  **A Brain Graph Foundation Model: Pre-Training and PromptTuning across Broad Atlases and Disorders** &nbsp;&nbsp; [**[Openreview]**](https://openreview.net/forum?id=PeGHkAaRxs) &nbsp;[**[Code]**](https://github.com/weixinxu666/BrainGFM)
 
 **<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Lifang He, Yu Zhang
 
-  Under Review
+International Conference on Learning Representations (ICLR), 2026
+Accepted， (CCF A, Core A*)
 
 
 
@@ -59,7 +74,8 @@ I hold dual master’s degrees from [McGill University](https://www.mcgill.ca/) 
 
 **<u>Xinxu Wei</u>**, Kanhao Zhao, Yong Jiao, Hua Xie, Lifang He, Yu Zhang
 
-International Conference on Machine Learning (ICML) 2025 
+International Conference on Machine Learning (ICML), 2025 
+Accepted. (CCF A, Core A*)
 
 
 
