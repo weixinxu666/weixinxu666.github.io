@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hello, my name is **Xinxu Wei**. I am currently a Ph.D. student (2023–2027) at [Lehigh University](https://www2.lehigh.edu/), advised by Dr. [Yu Zhang](https://yuzhangresearch.weebly.com/) and Dr. [Lifang He](https://scholar.google.com/citations?user=obgTcyoAAAAJ&hl=en).
+Hello, my name is **Xinxu Wei**. I am currently a Ph.D. student (2023.08–2026.12) at [Lehigh University](https://www2.lehigh.edu/), advised by Dr. [Yu Zhang](https://yuzhangresearch.weebly.com/) and Dr. [Lifang He](https://scholar.google.com/citations?user=obgTcyoAAAAJ&hl=en).
 
 My research lies at the intersection of **deep learning, machine learning, data mining, computer vision, neuroscience, and medical AI**, with a particular focus on **brain graph foundation models, self-supervised pre-training, and graph neural networks**.
 
@@ -259,7 +259,7 @@ Under Review by IEEE Transactions on Artificial Intelligence (TAI)
 - *2022.04* Suzhou Industrial Park Scholarship.
 
 # 📖 Educations
-- *2023.08 - 2027.01 (now)*, Ph.D., **Lehigh University**, Bethelehem PA, USA
+- *2023.08 - 2026.12 (now)*, Ph.D., **Lehigh University**, Bethelehem PA, USA
 - *2021.08 - 2023.05*, Master of Science (Dual Master Degree), **McGill University**, Montreal, Canada
 - *2020.08 - 2023.05*, Master of Engineering, **University of Electronic Science and Technology of China**, Chengdu, China
 - *2016.08 - 2020.05*, Bachelor of Engineering, **University of Electronic Science and Technology of China**, Chengdu, China
@@ -270,7 +270,7 @@ Under Review by IEEE Transactions on Artificial Intelligence (TAI)
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-<!--
+
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
+- *2026.05 - 2026.08*, **Research Scientist** at **TikTok**, Seattle, USA.
+
