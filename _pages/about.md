@@ -40,7 +40,7 @@ I hold dual master’s degrees from [McGill University](https://www.mcgill.ca/) 
 <div class='paper-box-text' markdown="1">
 
 
-  **Diffusion-Guided Pretraining for Brain Graph Foundation Models** 
+  **Diffusion-Guided Pretraining for Brain Graph Foundation Models** &nbsp;&nbsp; [**[Paper]**](https://arxiv.org/pdf/2602.09437)
 
 **<u>Xinxu Wei</u>**, Rong Zhou, Lifang He, Yu Zhang
 
