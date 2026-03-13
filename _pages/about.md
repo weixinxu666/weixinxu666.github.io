@@ -36,7 +36,7 @@ I hold dual master’s degrees from [McGill University](https://www.mcgill.ca/) 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nips.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/df.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -49,6 +49,10 @@ Under Review， (CCF A, Core A*)
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nips.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 
 
